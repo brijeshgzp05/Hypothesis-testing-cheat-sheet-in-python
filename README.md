@@ -5,3 +5,5 @@
 #### Anova and F test - One way anova
 #### Chi square test
 #### One tailed vs Two tailed tests
+
+#### Formula is also provided with latex syntax to understand in easy way
